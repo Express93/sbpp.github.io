@@ -102,7 +102,9 @@ Append and edit the following
 	}
 ```
 
-Save, reupload, and restart server
+Save, reupload, and restart server.
+
+Note: Whilst the webpanel will do its best to generate the above section for you, you should not rely on this being correct. Especially if your webserver (and database server) is on a different host to your game server. Also keep in mind that if your game server has to connect remotely, you may need to allow this with your database configuration. If you have problems here you would usually need to seek help from your webhost, not the SB++ support team.
 
 ### Final Note
 
